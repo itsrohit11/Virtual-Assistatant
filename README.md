@@ -11,4 +11,4 @@ Libraries-\
 
 *Also used the Multiple API's to support the assistant\
 1.NewsAPI to support the news\
-2.OpenAi API so that it can access the internet
+2.OpenAi API so that it can access the internet.
